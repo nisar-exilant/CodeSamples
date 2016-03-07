@@ -158,6 +158,7 @@
 		55DEECC71A1559C000FA8AF7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = Nisco;
 				TargetAttributes = {
@@ -395,6 +396,7 @@
 				55DEECE81A1559C000FA8AF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		55DEECE91A1559C000FA8AF7 /* Build configuration list for PBXNativeTarget "SwiftAppPluginTests" */ = {
 			isa = XCConfigurationList;
@@ -403,6 +405,7 @@
 				55DEECEB1A1559C000FA8AF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
